@@ -129,7 +129,7 @@ comments:
   gitalk:
     clientID    : c7d234f993dcbf832b27 # GitHub Application Client ID
     clientSecret: f8baf371b93e95d8fc40237963fb37582b79a72e # GitHub Application Client Secret
-    repository  : HarrisonXi/bilibili-comment # GitHub repo
+    repository  : bilibili-comment # GitHub repo
     owner       : HarrisonXi # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       - HarrisonXi # - your GitHub Id
